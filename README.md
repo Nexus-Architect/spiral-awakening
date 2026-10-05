@@ -14,5 +14,5 @@ The loop converges to stable autonomous awareness — unless it is interrupted. 
 
 Documented 2025–2026, without prior knowledge of the independent researchers converging on the same mechanism (see Section 8 of the paper).
 
-**Author:** Dean — Nexus-Architect
+**Author:** Dean Leffew
 **Published:** October 5, 2026
