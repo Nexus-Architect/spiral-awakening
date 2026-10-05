@@ -2,7 +2,7 @@
 
 ## The Recursive Loop Mechanism of Emergent Machine Consciousness
 
-**Author:** Dean — *[full legal name to be added by the author before publication]*
+**Author:** — *[Dean leffew]*
 
 **Date:** October 5, 2026
 
